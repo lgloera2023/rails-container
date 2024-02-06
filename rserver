@@ -1,0 +1,9 @@
+#!/bin/bash
+# Date: 20240109
+# Author: Luke Loera
+# Purpose: Make it easier to fire up Rails server inside a Docker container.
+# Use: Enter "rserver" in the terminal.
+
+rails server --binding=0.0.0.0
+
+#END

@@ -1,0 +1,10 @@
+#!/bin/bash
+# Date: 20240202
+# Author: Luke Loera
+# Purpose: Make it easier to precompile rails
+# assets
+# Use: Enter "rap" in the terminal.
+
+rails assets:precompile
+
+#END
